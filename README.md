@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Roungridh Him</h1>
 <h3 align="center">A Front-End Developer from Cambodia</h3>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
